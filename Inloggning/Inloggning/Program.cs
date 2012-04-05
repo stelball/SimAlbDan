@@ -10,6 +10,8 @@ namespace Inloggning
     {
         static void Main(string[] args)
         {
+            //DickMTF'er
+
             bool loop = true;
             List<string> användarnamn = new List<string>();
             List<string> lösenord = new List<string>();
