@@ -1,7 +1,0 @@
-c:\users\uiz3x\documents\visual studio 2010\Projects\Inloggning\Inloggning\bin\Debug\Inloggning.exe
-c:\users\uiz3x\documents\visual studio 2010\Projects\Inloggning\Inloggning\bin\Debug\Inloggning.pdb
-c:\users\uiz3x\documents\visual studio 2010\Projects\Inloggning\Inloggning\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\uiz3x\documents\visual studio 2010\Projects\Inloggning\Inloggning\obj\x86\Debug\Inloggning.exe
-c:\users\uiz3x\documents\visual studio 2010\Projects\Inloggning\Inloggning\obj\x86\Debug\Inloggning.pdb
-C:\Users\Uiz3X\SimAlbDan\Inloggning\Inloggning\obj\x86\Debug\Inloggning.exe
-C:\Users\Uiz3X\SimAlbDan\Inloggning\Inloggning\obj\x86\Debug\Inloggning.pdb
